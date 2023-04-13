@@ -2,9 +2,9 @@
 
 <h3 align="center"> Welcome to my github profile!</h3>
 
-## <picture><img src = "https://media.tenor.com/I3RjM4xQO0kAAAAi/monitors-typing.gif" width = 50px></picture> **About me**
+## <picture><img src="/Assets/bunnytype.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://media.tenor.com/-Fbyl7vqHiYAAAAi/goma-cat.gif" width = 250px></picture>
+<picture> <img align="right" src="/Assets/nyaatype.gif" width = 250px></picture>
 
 <br>
 
