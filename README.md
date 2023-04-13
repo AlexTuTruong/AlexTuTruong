@@ -1,16 +1,41 @@
-### Hi there 👋
+<h1 align="center"><b>Hi , I'm Alex </b><img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="35"></h1>
 
-<!--
-**AlexTuTruong/AlexTuTruong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center"> Welcome to my github profile!</h3>
 
-Here are some ideas to get you started:
+## <picture><img src = "https://media.tenor.com/I3RjM4xQO0kAAAAi/monitors-typing.gif" width = 50px></picture> **About me**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<picture> <img align="right" src="https://media.tenor.com/-Fbyl7vqHiYAAAAi/goma-cat.gif" width = 250px></picture>
+
+<br>
+
+* Information Technology gradute from [York University](https://www.yorku.ca/)
+* Solution developer
+* Automation enthusiast
+* Loves to create impactful software to solve real world problems
+
+<br>
+
+Check out [my website](https://alextu.ca/)
+
+## <img src="https://media.tenor.com/u6XatyVih5oAAAAi/predator-dutch.gif" width ="80"><b> Let's Connect..!</b>
+<br>
+<div align='left'>
+
+<ul>
+
+<li>
+<a href="https://www.linkedin.com/in/alextutroung/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  AlexTuTruong-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
+</li>
+
+<br>
+
+<li>
+<a href="mailto:alextutruong@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  AlexTuTruong-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
+</li>
+	
+</ul>
+</div>
