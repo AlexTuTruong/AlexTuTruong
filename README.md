@@ -17,7 +17,7 @@
 
 Check out [my website](https://alextu.ca/)
 
-## <img src="https://media.tenor.com/u6XatyVih5oAAAAi/predator-dutch.gif" width ="80"><b> Let's Connect..!</b>
+## <picture><img src="https://media.tenor.com/u6XatyVih5oAAAAi/predator-dutch.gif" width ="80"></picture><b> Let's Connect..!</b>
 <br>
 <div align='left'>
 
