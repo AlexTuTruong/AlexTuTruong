@@ -53,7 +53,7 @@ Check out [my website!](https://alextu.ca/)
 
 <br>
 
-## <picture><img src="https://media.tenor.com/u6XatyVih5oAAAAi/predator-dutch.gif" width ="80"></picture><b> Let's Connect..!</b>
+## <picture><img src="/Assets/handshake.gif" width ="80"></picture><b> Let's Connect..!</b>
 
 <a href="https://www.linkedin.com/in/alextutroung/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  AlexTuTruong-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin />
