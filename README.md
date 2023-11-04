@@ -57,7 +57,7 @@ Check out [my website!](https://alextu.ca/)
 </p>
 <h2 align="center">Let's Connect..!</h2> 
 <p align="center">
-	<a href="https://www.linkedin.com/in/alextutroung/" target="_blank">
+	<a href="https://www.linkedin.com/in/alextutruong/" target="_blank">
 		<img src="https://img.shields.io/badge/linkedin:  AlexTuTruong-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin />
 	</a>
 	<br>
