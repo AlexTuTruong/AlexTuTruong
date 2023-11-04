@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi , I'm Alex </b><img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Alex </b><img src="/Assets/hi.gif" width="35"></h1>
 
 <h3 align="center"> Welcome to my github profile!</h3>
 
