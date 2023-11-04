@@ -52,16 +52,16 @@ Check out [my website!](https://alextu.ca/)
 </p>
 
 <br>
-
-## <picture><img src="/Assets/handshake.gif" width ="80"></picture><b> Let's Connect..!</b>
-
-<a href="https://www.linkedin.com/in/alextutroung/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  AlexTuTruong-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin />
-</a>
-
-<br>
-
-<a href="mailto:alextutruong@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  AlexTuTruong-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail />
-</a>
-	
+<p align="center">
+	<img src="/Assets/handshake.gif" width="150px" alt="Waving Image">
+</p>
+<h2 align="center">Let's Connect..!</h2> 
+<p align="center">
+	<a href="https://www.linkedin.com/in/alextutroung/" target="_blank">
+		<img src="https://img.shields.io/badge/linkedin:  AlexTuTruong-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin />
+	</a>
+	<br>
+	<a href="mailto:alextutruong@gmail.com" target="_blank">
+		<img src="https://img.shields.io/badge/gmail:  AlexTuTruong-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail />
+	</a>
+</p>
