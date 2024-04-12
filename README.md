@@ -12,7 +12,7 @@
 * Information Technology gradute from [York University](https://www.yorku.ca/)
 * Automation enthusiast
 * Loves to create impactful software to solve real world problems
-* ***Currently seeking for 23/24 newgrad software engineering positions***
+* ***Currently seeking newgrad  and junior software engineering/development positions***
 
 <br>
 
