@@ -9,7 +9,6 @@
 
 * Information Technology gradute from [York University](https://www.yorku.ca/)
 * Passionate about creating impactful solutions to solve real world problems
-* ***Currently seeking newgrad and junior software engineering/development positions***
 
 Check out [my website!](https://alextu.ca/)
 
